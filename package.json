@@ -1,0 +1,17 @@
+{
+  "name": "silexsiojwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "io/server.js",
+
+  "dependencies": {
+    "jsonwebtoken": "^6.2.0",
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Ayuso <gonzalo123@gmail.com> (https://gonzalo123.com/)",
+  "license": "MIT"
+}
