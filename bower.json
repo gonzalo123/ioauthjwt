@@ -1,0 +1,21 @@
+{
+  "name": "silexsiojwt",
+  "description": "",
+  "main": "io/server.js",
+  "authors": [
+    "Gonzalo Ayuso <gonzalo123@gmail.com> (https://gonzalo123.com/)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gonzalo123/ioauthjwt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
