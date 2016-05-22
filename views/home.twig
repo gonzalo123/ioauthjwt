@@ -14,7 +14,7 @@
 
 <script>
     // we try to connect to websocket from a page without sessionID
-    var socket = io('http://localhost:3000/', {query: 'token=notValidSession'});
+    var socket = io('http://localhost:3000/', {query: 'token=notValidToken'});
     // this event never is triggered
     socket.on('connect', function () {
         console.log("connected!");
